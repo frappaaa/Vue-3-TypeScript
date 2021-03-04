@@ -1,4 +1,4 @@
-# vue-3-typescript
+# Vue 3 & TypeScript
 
 ## Project setup
 ```
